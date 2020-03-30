@@ -30,5 +30,7 @@ public class dddddd {
 //    public String testw() {
 //        return config;
 //    }
-
+//
+//    @Value("${spring.cloud}")
+//    我是新来的呦呵
 }
